@@ -1,0 +1,95 @@
+/* messages.css */ 
+
+  
+
+.messages-page { 
+
+    padding: 20px; 
+  
+  } 
+  
+    
+  
+  .page-title { 
+  
+    font-size: 24px; 
+  
+    margin-bottom: 20px; 
+  
+  } 
+  
+    
+  
+  .contacts-list { 
+  
+    display: flex; 
+  
+    flex-direction: column; 
+  
+    gap: 10px; 
+  
+  } 
+  
+    
+  
+  .contact-row { 
+  
+    display: flex; 
+  
+    align-items: center; 
+  
+    padding: 10px; 
+  
+    background-color: #fff; 
+  
+    border-radius: 5px; 
+  
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  
+  } 
+  
+    
+  
+  .contact-image { 
+  
+    width: 50px; 
+  
+    height: 50px; 
+  
+    object-fit: cover; 
+  
+    border-radius: 50%; 
+  
+    margin-right: 10px; 
+  
+  } 
+  
+    
+  
+  .contact-info { 
+  
+    flex: 1; 
+  
+  } 
+  
+    
+  
+  .contact-name { 
+  
+    font-size: 16px; 
+  
+    margin: 0; 
+  
+  } 
+  
+    
+  
+  .contact-status { 
+  
+    font-size: 14px; 
+  
+    color: #f47d31; 
+  
+  } 
+  
+   

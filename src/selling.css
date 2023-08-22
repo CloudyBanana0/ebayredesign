@@ -1,0 +1,231 @@
+/* selling.css */ 
+
+  
+
+.selling-page { 
+
+    padding: 20px; 
+  
+  } 
+  
+    
+  
+  .page-title { 
+  
+    font-size: 24px; 
+  
+    margin-bottom: 20px; 
+  
+  } 
+  
+    
+  
+  .item-list { 
+  
+    display: grid; 
+  
+    gap: 10px; 
+  
+  } 
+  
+    
+  
+  .item { 
+  
+    display: flex; 
+  
+    align-items: center; 
+  
+    padding: 10px; 
+  
+    background-color: #fff; 
+  
+    border-radius: 5px; 
+  
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  
+  } 
+  
+    
+  
+  .item-image { 
+  
+    width: 100px; 
+  
+    height: 100px; 
+  
+    object-fit: cover; 
+  
+    margin-right: 10px; 
+  
+  } 
+  
+    
+  
+  .item-info { 
+  
+    flex: 1; 
+  
+  } 
+  
+    
+  
+  .item-name { 
+  
+    font-size: 18px; 
+  
+    margin: 0; 
+  
+  } 
+  
+    
+  
+  .item-price { 
+  
+    font-size: 16px; 
+  
+    color: #f47d31; 
+  
+  } 
+  
+    
+  
+  .edit-button { 
+  
+    padding: 5px 10px; 
+  
+    background-color: #f47d31; 
+  
+    color: #fff; 
+  
+    border: none; 
+  
+    border-radius: 5px; 
+  
+    cursor: pointer; 
+  
+    transition: background-color 0.3s; 
+  
+  } 
+  
+    
+  
+  .edit-button:hover { 
+  
+    background-color: #ff9955; 
+  
+  } 
+  
+    
+  
+  .add-item-button { 
+  
+    margin-top: 20px; 
+  
+    padding: 10px 20px; 
+  
+    background-color: #f47d31; 
+  
+    color: #fff; 
+  
+    border: none; 
+  
+    border-radius: 5px; 
+  
+    cursor: pointer; 
+  
+    transition: background-color 0.3s; 
+  
+  } 
+  
+    
+  
+  .add-item-button:hover { 
+  
+    background-color: #ff9955; 
+  
+  } 
+  
+    
+  
+  .section-title { 
+  
+    font-size: 20px; 
+  
+    margin: 20px 0 10px; 
+  
+  } 
+  
+    
+  
+  .sold-items { 
+  
+    display: flex; 
+  
+    flex-wrap: wrap; 
+  
+    gap: 10px; 
+  
+  } 
+  
+    
+  
+  .sold-item { 
+  
+    flex: 1; 
+  
+    padding: 10px; 
+  
+    background-color: #f5f5f5; 
+  
+    border-radius: 5px; 
+  
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  
+  } 
+  
+    
+  
+  .sold-item-image { 
+  
+    width: 80px; 
+  
+    height: 80px; 
+  
+    object-fit: cover; 
+  
+    margin-bottom: 10px; 
+  
+  } 
+  
+    
+  
+  .sold-item-name { 
+  
+    font-size: 16px; 
+  
+    margin: 0; 
+  
+  } 
+  
+    
+  
+  .sold-item-price { 
+  
+    font-size: 14px; 
+  
+    color: #f47d31; 
+  
+  } 
+  
+    
+  
+  .sold-date { 
+  
+    font-size: 12px; 
+  
+    color: #777; 
+  
+  } 
+  
+   
